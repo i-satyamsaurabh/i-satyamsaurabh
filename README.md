@@ -1,3 +1,4 @@
+<h1> <img align="center" width="850" src="github pic 2.jpg">
 <h1 align="center">WELCOME! I am Satyam Saurabh</h1>
 <h3 align="center">Aspiring Front-end Developer & Data Scientist from India</h3>
 
