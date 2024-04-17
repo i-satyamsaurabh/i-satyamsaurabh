@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME! I am Satyam Saurabh</h1>
 <h3 align="center">Aspiring Front-end Developer & Data Scientist from India</h3>
 
-<img align="right" alt="Coding" width="300" src="github pic 1.png">
+<img align="center" alt="Coding" width="500" src="github pic 1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-satyamsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="i-satyamsaurabh" /> </p>
 
