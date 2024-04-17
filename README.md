@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME! I am Satyam Saurabh</h1>
 <h3 align="center">Aspiring Front-end Developer & Data Scientist from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fclipart-library.com%2Fclip-art%2F64-649594_custom-web-development-website-development.htm&psig=AOvVaw0PdSMOL_Uf1v27nxF53Dg2&ust=1713460254350000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND9pIPfyYUDFQAAAAAdAAAAABAd">
+<img align="right" alt="Coding" width="400" src="github pic 1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-satyamsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="i-satyamsaurabh" /> </p>
 
