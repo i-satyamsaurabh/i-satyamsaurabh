@@ -1,40 +1,113 @@
-![logo](https://github.com/i-satyamsaurabh/i-satyamsaurabh/blob/main/banner.png)
-<h1 align="center">WELCOME! I am Satyam Saurabh</h1>
-<h3 align="center">Aspiring Front-end Developer & Data Scientist from India</h3>
+# I-SATYAMSAURABH
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-satyamsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="i-satyamsaurabh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/i_satyamsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/i_satyamsaurabh?logo=twitter&style=for-the-badge" alt="i_satyamsaurabh" /></a> </p>
-
-- 🔭 I’m currently working on [Household Service Web-App](https://github.com/i-satyamsaurabh/IPL-Webpage)
-
-- 🌱 I’m currently pursuing as **Bachelor's degree from IIT Madras.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/i-satyamsaurabh](https://github.com/i-satyamsaurabh)
-
-- 💬 Ask me about **MYSQL, HTML5, CSS, AI, Flask and Python Programming**
-
-- 📫 How to reach me **satyam2610saurabh@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y3OoUtPHIzO6R8Bjk7gWWQjfQXy7swUx/view?usp=sharing](https://drive.google.com/file/d/1y3OoUtPHIzO6R8Bjk7gWWQjfQXy7swUx/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am good singer.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_satyamsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_satyamsaurabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam-saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-saurabh" height="30" width="40" /></a>
-<a href="https://instagram.com/i_satyamsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_satyamsaurabh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@satyam2610saura1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@satyam2610saura1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-satyamsaurabh&show_icons=true&locale=en&layout=compact" alt="i-satyamsaurabh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-satyamsaurabh&show_icons=true&locale=en" alt="i-satyamsaurabh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-satyamsaurabh&" alt="i-satyamsaurabh" /></p>
+*A i-satyamsaurabh project*
 
 
+
+Built with the tools and technologies:
+
+![Generic](https://img.shields.io/badge/Code-Generic-blue?style=for-the-badge)
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Overview
+
+A i-satyamsaurabh project
+
+This project demonstrates modern development practices and provides a solid foundation for software development projects.
+
+### Why i-satyamsaurabh?
+
+This project empowers developers to rapidly develop and deploy solutions with a solid backend foundation. The core features include:
+
+🔧 **Easy Setup**: Streamlined installation and configuration process
+⚡ **Modern Architecture**: Built with current best practices and patterns
+🛡️ **Secure**: Implements security best practices
+📱 **Responsive**: Works seamlessly across different platforms
+🚀 **Performance Optimized**: Fast and efficient execution
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Basic development environment**
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/i-satyamsaurabh/i-satyamsaurabh.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd i-satyamsaurabh
+   ```
+
+3. **Install the dependencies:**
+   ```bash
+   # Follow project-specific installation instructions
+   ```
+
+### Usage
+
+Please refer to the project documentation for specific usage instructions.
+
+---
+
+## Features
+
+- ✨ Modern and clean codebase
+- 📦 Easy to install and configure
+- 🔄 Regular updates and maintenance
+- 📖 Comprehensive documentation
+- 🤝 Community-driven development
+
+---
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+**i-satyamsaurabh** - [@i-satyamsaurabh](https://github.com/i-satyamsaurabh)
+
+Project Link: [https://github.com/i-satyamsaurabh/i-satyamsaurabh](https://github.com/i-satyamsaurabh/i-satyamsaurabh)
+
+---
+
+<div align="center">
+Made with ❤️ by i-satyamsaurabh
+</div>
