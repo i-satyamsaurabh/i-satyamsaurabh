@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a)](https://i-satyamsaurabh.github.io/My-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/satyam-saurabh)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:satyam2610saurabh@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+917739622120)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/917739622120)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -195,183 +195,88 @@
 
 <div align="center">
 
-### 🚀 Career Progression & Impact
+### 🚀 **Career Development Timeline**
 
-<table>
-<tr>
-<td width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 ```mermaid
 timeline
-    title Professional Growth Timeline
+    title 🎯 Professional Growth Journey
     
-    2022-2024    : Started BS Data Science at IIT Madras
-                 : CGPA: 8.78/10
-                 : Building Foundation
+    2022        : 🎓 Started BS Data Science
+                : 📍 IIT Madras
+                : 🏆 CGPA: 8.78/10
     
-    Sep-Nov 2024 : Full-Stack Web Developer
-                 : Universal Tech Ltd.
-                 : Built responsive web applications
-                 : Gained team collaboration experience
+    Sep 2024    : 💻 Web Developer Intern
+                : 🏢 Universal Tech Ltd.
+                : 🔧 Full-Stack Development
+                : ✅ Successfully Completed
     
-    Mar-May 2025 : Data Analytics Intern
-                 : Zenith India Corp.
-                 : 6% sales performance improvement
-                 : 98% data accuracy achievement
+    Mar 2025    : 📊 Data Analytics Intern
+                : 🏢 Zenith India Corp.
+                : 📈 6% Sales Improvement
+                : 🎯 98% Data Accuracy
+                : ✅ Successfully Completed
     
-    Jun-Aug 2025 : Virtual Data Analyst
-                 : Tata Consultancy Services
-                 : Advanced data visualization
-                 : Cross-functional collaboration
+    Jun 2025    : 🔍 Data Analyst (Virtual)
+                : 🏢 Tata Consultancy Services
+                : 📊 Advanced Analytics
+                : 🤝 Cross-functional Teams
+                : ✅ Successfully Completed
     
-    Present 2025 : Seeking New Opportunities
-                 : Open for Data Science roles
-                 : Ready for next challenge
+    Aug 2025    : 🎯 Seeking New Opportunities
+                : 🚀 Advanced ML Projects
+                : 📈 Open Source Contributions
+                : 🔬 Research & Innovation
 ```
 
-</td>
-</tr>
-</table>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### 📊 **Professional Experience Breakdown**
+### 📋 **Detailed Experience Breakdown**
 
 <table>
 <tr>
-<td width="33%">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150">
-
-### 🎯 **Data Analytics Intern**
-**Zenith India Corp.**  
-*Mar - May 2025*
-
-**Key Achievements:**
-- 🚀 **6% sales boost** through analytics
-- 📊 **98% data accuracy** via SQL optimization  
-- 🎯 **End-to-end pipeline** development
-- 📈 **Dynamic dashboards** creation
-
-**Tech Focus:** Python (55%), SQL (25%), Power BI (20%)
-</div>
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📊_Data_Analytics-Zenith_India_Corp-4CAF50?style=for-the-badge&logo=analytics&logoColor=white&labelColor=1a1a1a" />
+<br><br>
+<strong>🗓️ Mar - May 2025</strong><br>
+<em>Data Analytics Intern</em><br><br>
+🚀 <strong>6% Sales Boost</strong><br>
+📈 <strong>98% Data Accuracy</strong><br>
+🔧 <strong>SQL + Python + Power BI</strong><br>
 </td>
-<td width="33%">
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
-
-### 💻 **Full-Stack Developer**
-**Universal Tech Ltd.**  
-*Sep - Nov 2024*
-
-**Key Contributions:**
-- 🌐 **Responsive web apps** architecture
-- 🎨 **UI/UX collaboration** & implementation
-- 👥 **Agile methodology** participation
-- 🔍 **Code review** process involvement
-
-**Tech Focus:** HTML, CSS, JavaScript, Bootstrap, Flask
-</div>
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻_Web_Development-Universal_Tech-2196F3?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a" />
+<br><br>
+<strong>🗓️ Sep - Nov 2024</strong><br>
+<em>Full-Stack Developer</em><br><br>
+🌐 <strong>Responsive Web Apps</strong><br>
+🎨 <strong>UI/UX Collaboration</strong><br>
+👥 <strong>Agile Methodology</strong><br>
 </td>
-<td width="33%">
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-ea8c9f94-53c9-4b40-8a93-bb6a7b3bce41.gif" width="150">
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔍_Data_Analysis-Tata_TCS-FF9800?style=for-the-badge&logo=tcs&logoColor=white&labelColor=1a1a1a" />
+<br><br>
+<strong>🗓️ Jun - Aug 2025</strong><br>
+<em>Data Analyst (Virtual)</em><br><br>
+📊 <strong>Interactive Dashboards</strong><br>
+🔄 <strong>Data Pipelines</strong><br>
+🤝 <strong>Team Collaboration</strong><br>
+</td>
 
-### 📈 **Virtual Data Analyst**
-**Tata Consultancy Services**  
-*Jun - Aug 2025*
-
-**Key Deliverables:**
-- 🔍 **Comprehensive data** collection & preprocessing
-- 📊 **Interactive visualizations** with Python
-- 🤝 **Cross-functional collaboration** on strategic initiatives
-- 📈 **Business insights** generation
-
-**Tech Focus:** Python, Pandas, Matplotlib, Seaborn
-</div>
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯_Current_Focus-Open_Opportunities-9C27B0?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1a1a" />
+<br><br>
+<strong>🗓️ Present</strong><br>
+<em>Seeking Next Challenge</em><br><br>
+🚀 <strong>Advanced ML Projects</strong><br>
+📈 <strong>Open Source Work</strong><br>
+🔬 <strong>Research & Innovation</strong><br>
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 **Impact Metrics & Recognition**
-
-<table>
-<tr>
-<th width="25%">🎯 Performance</th>
-<th width="25%">📊 Technical Excellence</th>
-<th width="25%">🤝 Collaboration</th>
-<th width="25%">📈 Business Impact</th>
-</tr>
-<tr>
-<td align="center">
-
-**98%** Data Accuracy  
-**6%** Sales Improvement  
-**100%** Project Completion  
-
-</td>
-<td align="center">
-
-**Python** (Advanced)  
-**SQL** (Advanced)  
-**Power BI** (Proficient)  
-
-</td>
-<td align="center">
-
-**3** Companies  
-**Multiple** Cross-functional teams  
-**Agile** Methodologies  
-
-</td>
-<td align="center">
-
-**Revenue** Growth  
-**Process** Optimization  
-**Dashboard** Automation  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **Experience Timeline Visualization**
-
-```text
-🎓 Academic Foundation                    💼 Professional Growth                   🚀 Future Ready
-    │                                           │                                       │
-    ▼                                           ▼                                       ▼
-2022 ────── 2023 ────── 2024 ────── Mar 2025 ────── May 2025 ────── Aug 2025 ────── Present
-    │          │          │           │             │             │              │
-    │          │          │           │             │             │              │
-📚 IIT       📚 Core     💻 Web      📊 Data       📈 Advanced    🤖 Virtual    🎯 Job
-Madras      Subjects    Development  Analytics      Analytics      TCS          Ready
-Started     Mastery     Internship   Internship     Projects       Program      
-            
-Duration:    Ongoing     3 months     3 months      Project-based  3 months     Now
-Impact:      8.78 CGPA   Web Skills   6% Sales↑     ML Mastery     Enterprise   Ready!
-```
 
 </div>
 
@@ -519,7 +424,7 @@ I'm passionate about collaborating on innovative data science projects, discussi
 
 [![Email](https://img.shields.io/badge/📧_Direct_Contact-Send_Professional_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:satyam2610saurabh@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/📱_Quick_Chat-WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+917739622120)
+[![WhatsApp](https://img.shields.io/badge/📱_Quick_Chat-WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/917739622120)
 
 <br>
 
