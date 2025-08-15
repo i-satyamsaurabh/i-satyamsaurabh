@@ -429,7 +429,7 @@ I'm passionate about collaborating on innovative data science projects, discussi
 <br>
 
 ### 💡 **Open to Opportunities In:**
-`Data Science` • `Machine Learning Engineering` • `Data Analyst` • `Business Intelligence` • `Research & Development` • `Consulting`
+`Data Science` • `Machine Learning Engineering` • `Data Analyst` • `Business Intelligence` • `Research & Development` 
 
 ---
 
