@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a)](https://i-satyamsaurabh.github.io/My-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/satyam-saurabh)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:satyam2610saurabh@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:satyam2610saurabh@gmail.com?subject=Hello%20Satyam&body=Hi%20Satyam,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/917739622120)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -422,7 +422,7 @@ I'm passionate about collaborating on innovative data science projects, discussi
 
 [![LinkedIn](https://img.shields.io/badge/💼_Professional_Network-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/satyam-saurabh)
 
-[![Email](https://img.shields.io/badge/📧_Direct_Contact-Send_Professional_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:satyam2610saurabh@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Direct_Contact-Send_Professional_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:satyam2610saurabh@gmail.com?subject=Professional%20Inquiry&body=Hello%20Satyam,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20discussing%20potential%20opportunities.%0A%0ABest%20regards)
 
 [![WhatsApp](https://img.shields.io/badge/📱_Quick_Chat-WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/917739622120)
 
