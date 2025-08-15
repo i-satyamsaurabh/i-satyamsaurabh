@@ -1,1 +1,201 @@
-<div id="header" align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><h1>Hi there, I'm Satyam Saurabh<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1><p>A Data Science student at IIT Madras, passionate about transforming data into actionable insights and building intelligent applications. I thrive on solving complex problems with data-driven solutions.</p><!-- Social Icons --><a href="https://www.linkedin.com/in/satyam-saurabh" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a><a href="https://i-satyamsaurabh.github.io/My-Portfolio" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio"/></a><a href="mailto:satyam2610saurabh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a></div>👨‍💻 About MeI am a results-driven Data Science student specializing in Machine Learning, Data Analytics, and Business Intelligence. My goal is to leverage technology to build scalable solutions that drive innovation and business growth. I have hands-on experience in developing predictive models, engineering interactive BI dashboards, and deploying full-stack web applications.🔭 I’m currently working on enhancing my skills in Deep Learning and MLOps.🌱 I’m currently learning about Large Language Models (LLMs) and advanced cloud computing platforms.👯 I’m looking to collaborate on open-source data science projects or impactful AI applications.📫 How to reach me: satyam2610saurabh@gmail.com🛠️ My Tech StackHere are the technologies I work with:<div align="center">Data Science & Machine Learning <br/><p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib" /></p>BI, Databases & Web Development <br/><p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Power%2520BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft%2520Excel-217346%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftexcel%26logoColor%3Dwhite" alt="Excel" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></p>Tools & Platforms <br/><p><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" alt="Jupyter" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisualstudiocode%26logoColor%3Dwhite" alt="VS Code" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Render-46E3B7%3Fstyle%3Dfor-the-badge%26logo%3Drender%26logoColor%3Dwhite" alt="Render" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Google%2520Colab-F9AB00%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecolab%26logoColor%3Dblack" alt="Google Colab" /></p></div>📊 GitHub Stats & Activity<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Di-satyamsaurabh%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Satyam's GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Di-satyamsaurabh%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Di-satyamsaurabh%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" /></div>🚀 Featured ProjectsHere are some of the projects I'm most proud of.<table width="100%"><tr><td width="50%" valign="top"><h3>🏥 MediCare: AI-Powered Telehealth Platform</h3><p>A full-stack web application connecting patients and doctors for online consultations, appointment booking, and prescription management, featuring a preliminary AI symptom checker.</p><strong>Tech:</strong> Flask, Python, SQLite, Bootstrap, Google Meet API, Render.<br/><br/><a href="https://github.com/i-satyamsaurabh/MediCare-App" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/View%2520on%2520GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"></a></td><td width="50%" valign="top"><h3>🏏 T20 Cricket Score Predictor</h3><p>A real-time T20 cricket score prediction model deployed as a Flask web app. Achieved 98% accuracy using a Random Forest Regressor on 500k+ ball-by-ball data points.</p><strong>Tech:</strong> Python, Scikit-learn, Pandas, Flask.<br/><br/><a href="https://github.com/i-satyamsaurabh/Cricket-Score-Predictor" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/View%2520on%2520GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"></a></td></tr><tr><td width="50%" valign="top"><h3>📱 Mobile Usage & Behaviour Analysis</h3><p>An in-depth EDA project on 7,000 mobile users. Developed a user segmentation model and created an interactive Power BI dashboard to visualize key behavioral patterns.</p><strong>Tech:</strong> Power BI, Python, Pandas, SQL.<br/><br/><a href="https://github.com/i-satyamsaurabh/Mobile-Usage-Analysis" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/View%2520on%2520GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"></a></td><td width="50%" valign="top"><h3>💰 Customer Purchase Value Prediction</h3><p>An end-to-end machine learning project to predict customer purchase value. The workflow included data ingestion, preprocessing, feature engineering, and model evaluation.</p><strong>Tech:</strong> Python, Scikit-learn, Feature Engineering.<br/><br/><!-- Add link when available --><a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/View%2520on%2520GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"></a></td></tr></table><div align="center"><p>Thanks for visiting my profile!</p></div>
+# Hi there, I'm Satyam Saurabh! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;IIT+Madras+Student;Turning+Data+into+Insights;Building+AI-Powered+Solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
+
+## 🚀 About Me
+
+> **Results-driven Data Scientist & ML Engineer** passionate about transforming raw data into actionable business insights
+
+🎓 **BS Data Science & Programming** at **IIT Madras** (CGPA: 8.78/10) <br>
+📍 **Muzaffarpur, Bihar, India** <br>
+💼 **Data Analytics experience** with proven impact (6% sales performance improvement) <br>
+🔬 **Research focus**: Predictive Modeling, Business Intelligence, AI-Powered Applications
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://i-satyamsaurabh.github.io/My-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-saurabh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam2610saurabh@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917739622120)
+
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### 🌐 Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-satyamsaurabh&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Satyam's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-satyamsaurabh&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Satyam's Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-satyamsaurabh&theme=dark&hide_border=true&stroke=2E97F7&ring=2E97F7&fire=2E97F7" alt="Satyam's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-satyamsaurabh&theme=react-dark&hide_border=true&area=true" alt="Satyam's Contribution Graph" />
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+  
+### 🏏 [T20 Cricket Score Predictor](https://github.com/i-satyamsaurabh/Cricket-Score-Predictor)
+**98% Accuracy | RMSE: 2.6 runs**
+```
+🎯 Random Forest Regressor for real-time T20 score prediction
+📊 Processed 500k+ ball-by-ball records
+🚀 Flask web app deployment
+⚡ Advanced feature engineering (run rate, momentum, wickets)
+```
+
+### 🏥 [Medicare: AI-Powered Telehealth Platform](https://github.com/i-satyamsaurabh/MediCare-App)
+**Full-Stack Healthcare Solution**
+```
+🤖 ML-powered symptom checker
+📅 Appointment booking & management
+💬 Google Meet API integration
+🚨 Emergency alert system
+🔐 Multi-user authentication (Patient/Doctor)
+```
+
+### 📱 [Mobile Usage & Behaviour Analysis](https://github.com/i-satyamsaurabh/Mobile-Usage-Analysis)
+**7,000+ Users Dataset Analysis**
+```
+📊 5 behavioral categories (Minimal, Addicted, Risky)
+📈 Interactive Power BI dashboards
+🎯 Digital wellbeing recommendations
+📱 Screen time & battery performance insights
+```
+
+</div>
+
+## 💼 Professional Experience
+
+### 📊 **Data Analytics Intern** | Zenith India Corp. (Jan-Mar 2024)
+- 🚀 **Drove 6% increase** in overall sales performance through actionable insights
+- 📈 **98% data accuracy** achieved via optimized SQL queries and Power BI dashboards
+- 🛠️ **Tech Stack**: Python (55%), SQL (25%), Power BI (20%)
+
+### 💻 **Web Development Intern** | Universal Tech Ltd. (Sep-Nov 2024)
+- 🌐 Developed responsive web applications
+- 🎨 Collaborated on UI/UX implementation
+- 👥 Participated in code reviews and agile development
+
+### 📈 **Data Analyst Virtual Intern** | Tata Consultancy Services (Jun-Aug 2025)
+- 🔍 Data collection and preprocessing
+- 📊 Created visualizations using Python libraries
+- 🤝 Cross-functional team collaboration
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🏛️ **Indian Institute of Technology Madras**
+**BS Data Science & Programming** | **CGPA: 8.78/10** | **2022-2026**
+
+### 📜 **Certifications**
+![IIT Madras](https://img.shields.io/badge/Advanced_ML_&_Data_Science-IIT_Madras-orange?style=flat-square)
+![Microsoft](https://img.shields.io/badge/Generative_AI-Microsoft_&_LinkedIn-blue?style=flat-square)
+![Tata](https://img.shields.io/badge/Data_Visualization-Tata_&_Forage-green?style=flat-square)
+![Deloitte](https://img.shields.io/badge/Data_Analytics-Deloitte-navy?style=flat-square)
+
+</div>
+
+## 🌟 Achievements & Impact
+
+<div align="center">
+
+🥇 **Gold Medalist** - Inter-District Debate & Speech <br>
+🎯 **6% Sales Performance** improvement through data-driven insights <br>
+📊 **98% Model Accuracy** in T20 Cricket Score Prediction <br>
+🏥 **Full-Stack Healthcare App** deployed on Render <br>
+📱 **7,000+ User Analysis** with behavioral segmentation
+
+</div>
+
+## 📊 Skills Breakdown
+
+```text
+Data Science & ML     ████████████████████████████████████████ 95%
+Python Programming    ████████████████████████████████████████ 90%
+SQL & Databases      ███████████████████████████████████████  85%
+Power BI & Viz       ██████████████████████████████████████   80%
+Web Development      █████████████████████████████████        75%
+Statistical Analysis ████████████████████████████████████████ 90%
+```
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+I'm always open to collaborating on data science projects, discussing ML innovations, or sharing insights about the latest in AI and analytics!
+
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Work-FF5722?style=for-the-badge)](https://i-satyamsaurabh.github.io/My-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/satyam-saurabh)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:satyam2610saurabh@gmail.com)
+
+**🔍 Currently seeking Data Science and ML Engineering opportunities**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=i-satyamsaurabh&label=Profile%20Views&color=2E97F7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/i-satyamsaurabh?label=Followers&style=flat-square&color=2E97F7" alt="GitHub Followers" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+*"In God we trust. All others must bring data."* - W. Edwards Deming
+
+</div>
