@@ -195,42 +195,185 @@
 
 <div align="center">
 
-### 🎯 Career Timeline
+### 🚀 Career Progression & Impact
 
-```text
-2022 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
-  │                                                                                         │
-  ▼                                                                                         ▼
-Started BS Data Science                                                            Present
-IIT Madras (CGPA: 8.78/10)                                                   Seeking Opportunities
-  │                                                                                         │
-  └── Sep 2024 ──── Nov 2024 ──── Mar 2025 ──── May 2025 ──── Jun 2025 ──── Aug 2025 ────┘
-        │              │             │              │             │              │
-        ▼              ▼             ▼              ▼             ▼              ▼
-   Web Dev Intern  (Completed)  Data Analyst   (Completed)  TCS Virtual    (Completed)
-   Universal Tech     └─────    Zenith India      └─────   Data Analyst      └─────
-        Ltd.                        Corp.                   Internship
+<table>
+<tr>
+<td width="100%">
+
+```mermaid
+timeline
+    title Professional Growth Timeline
+    
+    2022-2024    : Started BS Data Science at IIT Madras
+                 : CGPA: 8.78/10
+                 : Building Foundation
+    
+    Sep-Nov 2024 : Full-Stack Web Developer
+                 : Universal Tech Ltd.
+                 : Built responsive web applications
+                 : Gained team collaboration experience
+    
+    Mar-May 2025 : Data Analytics Intern
+                 : Zenith India Corp.
+                 : 6% sales performance improvement
+                 : 98% data accuracy achievement
+    
+    Jun-Aug 2025 : Virtual Data Analyst
+                 : Tata Consultancy Services
+                 : Advanced data visualization
+                 : Cross-functional collaboration
+    
+    Present 2025 : Seeking New Opportunities
+                 : Open for Data Science roles
+                 : Ready for next challenge
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 📊 **Data Analytics Intern** | Zenith India Corp. *(Mar-May 2025)*
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+---
 
-- 🚀 **Achieved 6% increase** in overall sales performance through advanced analytics
-- 📈 **Delivered 98% data accuracy** via optimized SQL queries and dynamic dashboards  
-- 🎯 **Led end-to-end** data pipeline development and visualization projects
-- **Tech Stack:** Python (55%), SQL (25%), Power BI (20%)
+<div align="center">
 
-### 💻 **Full-Stack Web Developer** | Universal Tech Ltd. *(Sep-Nov 2024)*
-- 🌐 **Architected responsive** web applications with modern frameworks
-- 🎨 **Collaborated on UI/UX** design and implementation strategies
-- 👥 **Participated in code reviews** and agile development methodologies
+### 📊 **Professional Experience Breakdown**
 
-### 📈 **Data Analyst (Virtual)** | Tata Consultancy Services *(Jun-Aug 2025)*
-- 🔍 **Executed comprehensive** data collection and preprocessing workflows
-- 📊 **Developed interactive visualizations** using advanced Python libraries
-- 🤝 **Collaborated with cross-functional** teams on strategic initiatives
+<table>
+<tr>
+<td width="33%">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150">
+
+### 🎯 **Data Analytics Intern**
+**Zenith India Corp.**  
+*Mar - May 2025*
+
+**Key Achievements:**
+- 🚀 **6% sales boost** through analytics
+- 📊 **98% data accuracy** via SQL optimization  
+- 🎯 **End-to-end pipeline** development
+- 📈 **Dynamic dashboards** creation
+
+**Tech Focus:** Python (55%), SQL (25%), Power BI (20%)
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
+
+### 💻 **Full-Stack Developer**
+**Universal Tech Ltd.**  
+*Sep - Nov 2024*
+
+**Key Contributions:**
+- 🌐 **Responsive web apps** architecture
+- 🎨 **UI/UX collaboration** & implementation
+- 👥 **Agile methodology** participation
+- 🔍 **Code review** process involvement
+
+**Tech Focus:** HTML, CSS, JavaScript, Bootstrap, Flask
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-ea8c9f94-53c9-4b40-8a93-bb6a7b3bce41.gif" width="150">
+
+### 📈 **Virtual Data Analyst**
+**Tata Consultancy Services**  
+*Jun - Aug 2025*
+
+**Key Deliverables:**
+- 🔍 **Comprehensive data** collection & preprocessing
+- 📊 **Interactive visualizations** with Python
+- 🤝 **Cross-functional collaboration** on strategic initiatives
+- 📈 **Business insights** generation
+
+**Tech Focus:** Python, Pandas, Matplotlib, Seaborn
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 **Impact Metrics & Recognition**
+
+<table>
+<tr>
+<th width="25%">🎯 Performance</th>
+<th width="25%">📊 Technical Excellence</th>
+<th width="25%">🤝 Collaboration</th>
+<th width="25%">📈 Business Impact</th>
+</tr>
+<tr>
+<td align="center">
+
+**98%** Data Accuracy  
+**6%** Sales Improvement  
+**100%** Project Completion  
+
+</td>
+<td align="center">
+
+**Python** (Advanced)  
+**SQL** (Advanced)  
+**Power BI** (Proficient)  
+
+</td>
+<td align="center">
+
+**3** Companies  
+**Multiple** Cross-functional teams  
+**Agile** Methodologies  
+
+</td>
+<td align="center">
+
+**Revenue** Growth  
+**Process** Optimization  
+**Dashboard** Automation  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **Experience Timeline Visualization**
+
+```text
+🎓 Academic Foundation                    💼 Professional Growth                   🚀 Future Ready
+    │                                           │                                       │
+    ▼                                           ▼                                       ▼
+2022 ────── 2023 ────── 2024 ────── Mar 2025 ────── May 2025 ────── Aug 2025 ────── Present
+    │          │          │           │             │             │              │
+    │          │          │           │             │             │              │
+📚 IIT       📚 Core     💻 Web      📊 Data       📈 Advanced    🤖 Virtual    🎯 Job
+Madras      Subjects    Development  Analytics      Analytics      TCS          Ready
+Started     Mastery     Internship   Internship     Projects       Program      
+            
+Duration:    Ongoing     3 months     3 months      Project-based  3 months     Now
+Impact:      8.78 CGPA   Web Skills   6% Sales↑     ML Mastery     Enterprise   Ready!
+```
+
+</div>
 
 ---
 
