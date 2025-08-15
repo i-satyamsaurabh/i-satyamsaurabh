@@ -21,12 +21,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-> **🎯 Results-driven Data Scientist & ML Engineer** with a passion for transforming complex datasets into strategic business solutions
+**🎯 Results-driven Data Scientist & ML Engineer** with a passion for transforming complex datasets into strategic business solutions
 
-**🎓 Current:** BS Data Science & Programming at **IIT Madras** <br>
-**📊 GPA:** 8.78/10 | **📍 Location:** Muzaffarpur, Bihar <br>
-**💼 Impact:** 6% sales performance improvement through data analytics <br>
-**🔬 Focus:** Predictive Modeling | Business Intelligence | AI Applications
+- **🎓 Current:** BS Data Science & Programming at **IIT Madras**
+- **📊 GPA:** 8.78/10 | **📍 Location:** Muzaffarpur, Bihar
+- **💼 Impact:** 6% sales performance improvement through data analytics
+- **🔬 Focus:** Predictive Modeling | Business Intelligence | AI Applications
 
 ### 🌟 What Sets Me Apart
 - 🏆 **98% Model Accuracy** in production ML systems
@@ -110,10 +110,6 @@
 <br><br>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=i-satyamsaurabh&theme=react-dark&hide_border=true&area=true&line=00D9FF&point=FF6B35&color=ffffff&title_color=00D9FF" />
-
-<br>
-
-![Metrics](https://github.com/i-satyamsaurabh/i-satyamsaurabh/blob/main/github-metrics.svg)
 
 </div>
 
@@ -201,33 +197,24 @@
 
 ### 🎯 Career Timeline
 
-```mermaid
-timeline
-    title My Professional Journey
-    
-    2022 : Started BS Data Science at IIT Madras
-         : CGPA: 8.78/10
-    
-    Jan 2024 : Data Analytics Intern - Zenith India Corp
-             : 6% Sales Performance Improvement
-             : 98% Data Accuracy Achievement
-    
-    Sep 2024 : Web Development Intern - Universal Tech Ltd
-             : Responsive Web Applications
-             : UI/UX Implementation
-    
-    Jun 2025 : Data Analyst Virtual Intern - TCS
-             : Advanced Analytics Projects
-             : Cross-functional Collaboration
-    
-    Present  : Seeking Data Science Opportunities
-             : 3+ Years Academic Excellence
-             : Multiple Industry Internships
+```text
+2022 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
+  │                                                                                         │
+  ▼                                                                                         ▼
+Started BS Data Science                                                            Present
+IIT Madras (CGPA: 8.78/10)                                                   Seeking Opportunities
+  │                                                                                         │
+  └── Sep 2024 ──── Nov 2024 ──── Mar 2025 ──── May 2025 ──── Jun 2025 ──── Aug 2025 ────┘
+        │              │             │              │             │              │
+        ▼              ▼             ▼              ▼             ▼              ▼
+   Web Dev Intern  (Completed)  Data Analyst   (Completed)  TCS Virtual    (Completed)
+   Universal Tech     └─────    Zenith India      └─────   Data Analyst      └─────
+        Ltd.                        Corp.                   Internship
 ```
 
 </div>
 
-### 📊 **Senior Data Analytics Intern** | Zenith India Corp. *(Jan-Mar 2024)*
+### 📊 **Data Analytics Intern** | Zenith India Corp. *(Mar-May 2025)*
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🚀 **Achieved 6% increase** in overall sales performance through advanced analytics
@@ -305,21 +292,30 @@ timeline
 
 <div align="center">
 
-```python
-skills = {
-    'Data Science & ML': '████████████████████████████████████████ 95%',
-    'Python Programming': '████████████████████████████████████████ 90%', 
-    'SQL & Databases': '███████████████████████████████████████  85%',
-    'Statistical Analysis': '████████████████████████████████████████ 90%',
-    'Power BI & Visualization': '██████████████████████████████████████   80%',
-    'Web Development': '█████████████████████████████████        75%',
-    'Business Intelligence': '███████████████████████████████████████  85%',
-    'Research & Analytics': '████████████████████████████████████████ 95%'
-}
+### 🎯 Core Competencies
 
-for skill, progress in skills.items():
-    print(f"{skill:<25} {progress}")
-```
+<table>
+<tr>
+<td width="50%">
+
+**🔬 Technical Skills**
+- Data Science & ML: ████████████████████ 95%
+- Python Programming: ████████████████████ 90%
+- SQL & Databases: ██████████████████░░ 85%
+- Statistical Analysis: ████████████████████ 90%
+
+</td>
+<td width="50%">
+
+**💼 Business Skills**
+- Power BI & Visualization: ████████████████░░░░ 80%
+- Web Development: ███████████████░░░░░ 75%
+- Business Intelligence: ██████████████████░░ 85%
+- Research & Analytics: ████████████████████ 95%
+
+</td>
+</tr>
+</table>
 
 ### 🎯 Specialized Competencies
 - **🤖 Machine Learning:** Supervised/Unsupervised Learning, Feature Engineering, Model Optimization
@@ -338,7 +334,7 @@ for skill, progress in skills.items():
 
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8014-1589cf0d5b09.gif" width="500">
 
-### 🎯 **2024-2025 Objectives**
+### 🎯 **2025 Objectives**
 
 **🔬 Research Interests**
 - Advanced Deep Learning Applications
