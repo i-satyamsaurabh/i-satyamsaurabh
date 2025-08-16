@@ -206,19 +206,19 @@ timeline
     Sept 2022   : 🎓 Started BS Data Science
                 : 📍 IIT Madras
                 : 🏆 CGPA: 8.78/10
+
+    Sept 2024   : 💻 Web Developer Intern
+                : 🏢 Universal Tech Ltd.
+                : 🔧 Full-Stack Development
+                : ✅ Successfully Completed
     
     Mar 2025    : 📊 Data Analytics Intern
                 : 🏢 Zenith India Corp.
                 : 📈 6% Sales Improvement
                 : 🎯 98% Data Accuracy
                 : ✅ Successfully Completed
-
-    May 2025    : 💻 Web Developer Intern
-                : 🏢 Universal Tech Ltd.
-                : 🔧 Full-Stack Development
-                : ✅ Successfully Completed
     
-    July 2025    : 🔍 Data Analyst (Virtual)
+    July 2025   : 🔍 Data Analyst (Virtual)
                 : 🏢 Tata Consultancy Services
                 : 📊 Advanced Analytics
                 : 🤝 Cross-functional Teams
@@ -259,7 +259,7 @@ timeline
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🔍_Data_Analysis-Tata_TCS-FF9800?style=for-the-badge&logo=tcs&logoColor=white&labelColor=1a1a1a" />
 <br><br>
-<strong>🗓️ Jun - Aug 2025</strong><br>
+<strong>🗓️ July - Aug 2025</strong><br>
 <em>Data Analyst (Virtual)</em><br><br>
 📊 <strong>Interactive Dashboards</strong><br>
 🔄 <strong>Data Pipelines</strong><br>
